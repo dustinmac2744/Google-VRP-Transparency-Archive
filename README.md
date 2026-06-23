@@ -17,7 +17,7 @@ Evidence suggests a "string-out strategy" where reports are subjected to artific
 | May 11, 2026 | Related patch/write-up published | N/A |
 
 ## Evidence Manifest
-* **Backend Verification**: See `/evidence/backend_flags/` for screenshots (e.g., 76452.jpg) confirming "P1_verified_by_mckay" status.
+* **Backend Verification**: See `/evidence/backend_flags/` for screenshots confirming "P1_verified_by_mckay" status.
 * **Communication Logs**: See `/evidence/comms/` for correspondence demonstrating the shift from active engagement to arbitrary dismissal.
 
 ## Truth Override
